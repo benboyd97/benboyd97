@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benboyd97
 - 👀 I’m interested in machine learning and data astrononmy
-- 🌱 I’m currently doing a PhD in Astrophysics and Mahcine Learning at the University of Cambridge
+- 🌱 I’m currently doing a PhD in Astrophysics and Machine Learning at the University of Cambridge
 - 💞️ I’m looking to collaborate on machine learning and data astrononmy projects 
 - 📫 How to reach me: bboyd1997@hotmail.co.uk
 
